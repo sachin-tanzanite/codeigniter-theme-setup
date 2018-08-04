@@ -1,0 +1,397 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Einhorn-Apotheke - Kontakt</title>
+<meta name="robots" content="index, follow" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="content-language" content="de" />
+<meta name="keywords" lang="de" content="Einhorn-Apotheke, München, apotheken, apotheke, kosmetik, wellness, bestellung, vorbestellen, reiseapotheke, diabetes, diabetiker, gesundheit, rezept, krankheit, medikament, medizin, pharmazie, pollenflugkalender, arzneimittel, impfkalender, dermatologie, nebenwirkungen, wechselwirkungen, notdienst, notdienstplan, notdienstkalender, allergiker, allergien, selbstmedikation, arzneimittelwirkungen, pflanzliche arzneimittel, hom&ouml;opathie, cholesterin, ldl, hdl, urinuntersuchung, harns&auml;ure,  ketone, glucose, quick-test, fernreise, reiseimpfung, impfberatung, blutdruck, ern&auml;hrung, beratung, blutzuckermessger&auml;t, selbsthilfegruppen, krankenpflege, stomaversorgung, naturarzneimittel, hiv, aids, fitness, kcal, pr&auml;vention, sportlernahrung, leistungssport, eiweisspr&auml;parate, vitamine, stoffwechsel, darmsanierung, entgiftung, aromatherapie, bachbl&uuml;ten" />
+<meta name="description" content="Die Einhorn-Apotheke in München stellt sich vor. Informationen, Tipps und Anregungen rund um die Gesundheit, Medikamente, Notdienst, Impfungen, Reiseapotheke, Allergien, Kosmetik, Wellness, Blutdruck, Ernährung, Diabetes, ..." />
+<meta name="author" content="meXXart GbR, Dessau" />
+<meta name="page-topic" content="Apotheke, Gesundheit, Krankheit, Medikamente, Gesundheitsberatung" />
+<meta name="page-type" content="Apothekenangebote und Informationen zur Gesunderhaltung" />
+<script language="JavaScript" src="https://www.aposolutions.com/generell/inc/modul/common/scripts.js" type="text/javascript"></script>
+<script language="JavaScript" src="https://www.aposolutions.com/generell/inc/modul/common/plugins/jquery/jquery-1.8.0.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script language="JavaScript" src="https://www.aposolutions.com/generell/inc/modul/common/plugins/ezmark/ezmark.js" type="text/javascript"></script>
+<script language="JavaScript" src="https://www.aposolutions.com/generell/inc/modul/common/plugins/colorbox/colorbox.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+$(document).ready(function(){
+   $('a[rel="lightbox"]').colorbox({transition:"fade"});
+   return false;
+});
+
+$(function() {
+   $( "#tabs" ).tabs();
+});
+</script>
+
+<link href="https://www.aposolutions.com/generell/inc/modul/common/plugins/ezmark/ezmark.css" rel="stylesheet" type="text/css" />
+<link href="https://www.aposolutions.com/generell/inc/modul/common/plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
+<link href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css" />
+<link href="https://www.aposolutions.com/generell/styles/common/vx2.css" rel="stylesheet" type="text/css" />
+<link href="https://www.aposolutions.com/generell/styles/vx2_0154/verdana.css" rel="stylesheet" type="text/css" />
+<link href='http://www.einhorn-apotheke-muenchen.de/generell/indi_styles.css' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aposolutions.com/generell/styles/common/print.css" />
+</head>
+<body id="bodyID">
+<div id="lay-bigbox">
+  <div id="lay-head"><div id="upRef"><a name="oben">&nbsp;</a></div>
+<div class='m2Box'>
+<ul class='m2'>
+</ul></div>
+</div>
+  <div id="lay-dyncont1">
+<div id='box-headline-menu'><span class='magicHL'>&nbsp;</span></div>
+<div id='box-content-menu'>
+<ul class='m1'>
+  <li class='hmpi'><a href='/apotheke/willkommen.htm' class='hmpi'>Ihre Apotheke</a></li>
+  <li class='hmpi'><a href='/apotheke/vorbestellung.htm' class='hmpi'>Vorbestellung</a></li>
+  <li class='hmpi'><a href='/apotheke/leistungen.htm' class='hmpi'>Unsere Leistungen</a></li>
+  <li class='hmpi'><a href='/apotheke/angebote.htm' class='hmpi'>Aktuelle Angebote</a></li>
+  <li class='hmpi'><a href='/apotheke/aktionen.htm' class='hmpi'>Aktuelle Aktionen</a></li>
+  <li class='hmpi'><a href='/apotheke/notdienst.htm' class='hmpi'>Notdienst</a></li>
+  <li class='hmpi'><a href='/apotheke/wissenswertes.htm' class='hmpi'>Wissenswertes</a></li>
+  <li class='hmpa'><a href='/apotheke/kontakt.htm' class='hmpa'>Kontakt</a></li>
+</ul></div>
+<div id='box-foot-menu'></div>
+<h1 id='hbox-pdm'>Pflanze des Monats</h1>
+<div class='box-content'><a href='/apotheke/monatspflanze.htm'><img src='https://www.aposolutions.com/generell/pix/common/pdm/mini/tpl_adonisroeschen.jpg' alt='blühendes Adonisröschen' title='blühendes Adonisröschen' class='pic' /><p>Eine unter Naturschutz stehende Heilpflanze steht jetzt in Blüte - das Adonisröschen...</p></a><br class='clearing' /></div>
+<h1 class='hbox-tdm'>Thema des Monats</h1>
+<div class='box-content'><a href='/apotheke/monatsthema.htm'><h2 style='margin-top:0;'>Was hinter homöopathischen Arzneien steckt</h2><img src='https://www.aposolutions.com/generell/pix/common/all/mini/tpl_dpa_042017.jpg' alt='Homöopathie Symbolbild' title='Homöopathie Symbolbild' class='pic picTDMMini' />
+<p>Eine starke Wirkung ohne unerwünschte Nebenwirkungen - davon träumen viele Patienten. Es gibt Arzneien, die das tatsächlich versprechen...</p></a>
+<br class='clearing' /></div>
+<h1 id='hbox-gtipps-bs'>Ratgeber</h1>
+<div class='box-content'>Bitte wählen Sie:<br /><br />
+<div class='bsBox' id='bsBox1' style='font-weight:bold;'><a href='javascript:setBox("bsBlock", "bsBox", 1 ,26);'>A</a></div>
+<div class='bsBox' id='bsBox2'><a href='javascript:setBox("bsBlock", "bsBox", 2 ,26);'>B</a></div>
+<div class='bsBox' id='bsBox3'><a href='javascript:setBox("bsBlock", "bsBox", 3 ,26);'>C</a></div>
+<div class='bsBox' id='bsBox4'><a href='javascript:setBox("bsBlock", "bsBox", 4 ,26);'>D</a></div>
+<div class='bsBox' id='bsBox5'><a href='javascript:setBox("bsBlock", "bsBox", 5 ,26);'>E</a></div>
+<div class='bsBox' id='bsBox6'><a href='javascript:setBox("bsBlock", "bsBox", 6 ,26);'>F</a></div>
+<div class='bsBox' id='bsBox7'><a href='javascript:setBox("bsBlock", "bsBox", 7 ,26);'>G</a></div>
+<div class='bsBox' id='bsBox8'><a href='javascript:setBox("bsBlock", "bsBox", 8 ,26);'>H</a></div>
+<div class='bsBox' id='bsBox9'><a href='javascript:setBox("bsBlock", "bsBox", 9 ,26);'>I</a></div>
+<div class='bsBox' id='bsBox10'><a href='javascript:setBox("bsBlock", "bsBox", 10 ,26);'>J</a></div>
+<div class='bsBox' id='bsBox11'><a href='javascript:setBox("bsBlock", "bsBox", 11 ,26);'>K</a></div>
+<div class='bsBox' id='bsBox12'><a href='javascript:setBox("bsBlock", "bsBox", 12 ,26);'>L</a></div>
+<div class='bsBox' id='bsBox13'><a href='javascript:setBox("bsBlock", "bsBox", 13 ,26);'>M</a></div>
+<div class='bsBox' id='bsBox14'><a href='javascript:setBox("bsBlock", "bsBox", 14 ,26);'>N</a></div>
+<div class='bsBox' id='bsBox15'><a href='javascript:setBox("bsBlock", "bsBox", 15 ,26);'>O</a></div>
+<div class='bsBox' id='bsBox16'><a href='javascript:setBox("bsBlock", "bsBox", 16 ,26);'>P</a></div>
+<div class='bsBox' id='bsBox17'><a href='javascript:setBox("bsBlock", "bsBox", 17 ,26);'>Q</a></div>
+<div class='bsBox' id='bsBox18'><a href='javascript:setBox("bsBlock", "bsBox", 18 ,26);'>R</a></div>
+<div class='bsBox' id='bsBox19'><a href='javascript:setBox("bsBlock", "bsBox", 19 ,26);'>S</a></div>
+<div class='bsBox' id='bsBox20'><a href='javascript:setBox("bsBlock", "bsBox", 20 ,26);'>T</a></div>
+<div class='bsBox' id='bsBox21'><a href='javascript:setBox("bsBlock", "bsBox", 21 ,26);'>U</a></div>
+<div class='bsBox' id='bsBox22'><a href='javascript:setBox("bsBlock", "bsBox", 22 ,26);'>V</a></div>
+<div class='bsBox' id='bsBox23'><a href='javascript:setBox("bsBlock", "bsBox", 23 ,26);'>W</a></div>
+<div class='bsBox' id='bsBox24'><a href='javascript:setBox("bsBlock", "bsBox", 24 ,26);'>X</a></div>
+<div class='bsBox' id='bsBox25'><a href='javascript:setBox("bsBlock", "bsBox", 25 ,26);'>Y</a></div>
+<div class='bsBox' id='bsBox26'><a href='javascript:setBox("bsBlock", "bsBox", 26 ,26);'>Z</a></div>
+<br clear='left' />
+<div id='bsBlock1'>
+<br /><strong><big>A</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/1.htm?bsNr=1'>Abnehmen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/67.htm?bsNr=1'>Allergien</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/42.htm?bsNr=1'>Angstkrankheiten</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/41.htm?bsNr=1'>Aromatherapie</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/43.htm?bsNr=1'>Arterienverkalkung</a></p>
+</div>
+
+<div id='bsBlock2' class='bsBlock'>
+<br /><strong><big>B</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/2.htm?bsNr=2'>Biotin</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/3.htm?bsNr=2'>Blähungen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/4.htm?bsNr=2'>Bluthochdruck</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/30.htm?bsNr=2'>Borreliose</a></p>
+</div>
+
+<div id='bsBlock3' class='bsBlock'>
+<br /><strong><big>C</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/25.htm?bsNr=3'>Cholesterin</a></p>
+</div>
+
+<div id='bsBlock4' class='bsBlock'>
+<br /><strong><big>D</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/5.htm?bsNr=4'>Diabetes</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/6.htm?bsNr=4'>Durchfall</a></p>
+</div>
+
+<div id='bsBlock5' class='bsBlock'>
+<br /><strong><big>E</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/64.htm?bsNr=5'>Ernährung, gesunde</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/48.htm?bsNr=5'>Erntekrätze</a></p>
+</div>
+
+<div id='bsBlock6' class='bsBlock'>
+<br /><strong><big>F</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/38.htm?bsNr=6'>Fernreisen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/31.htm?bsNr=6'>FSME</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/49.htm?bsNr=6'>Fuchsbandwurm</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/7.htm?bsNr=6'>Fußpilz</a></p>
+</div>
+
+<div id='bsBlock7' class='bsBlock'>
+<br /><strong><big>G</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/50.htm?bsNr=7'>Gicht</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/33.htm?bsNr=7'>Grippe/Grippaler Infekt</a></p>
+</div>
+
+<div id='bsBlock8' class='bsBlock'>
+<br /><strong><big>H</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/55.htm?bsNr=8'>Halsschmerzen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/44.htm?bsNr=8'>Hämorrhoiden</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/36.htm?bsNr=8'>Hausapotheke</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/35.htm?bsNr=8'>Heilfasten</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/8.htm?bsNr=8'>Heuschnupfen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/51.htm?bsNr=8'>Hitzschlag</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/53.htm?bsNr=8'>Homöopathika</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/54.htm?bsNr=8'>Hühnereiweiß-Allergie</a></p>
+</div>
+
+<div id='bsBlock9' class='bsBlock'>
+<br /><strong><big>I</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/34.htm?bsNr=9'>Influenza</a></p>
+</div>
+
+<div id='bsBlock10' class='bsBlock'>
+<br /><strong><big>J</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/9.htm?bsNr=10'>Jodmangel</a></p>
+</div>
+
+<div id='bsBlock11' class='bsBlock'>
+<br /><strong><big>K</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/10.htm?bsNr=11'>Karies</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/59.htm?bsNr=11'>Kopfläuse</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/58.htm?bsNr=11'>Kopfschuppen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/12.htm?bsNr=11'>Krebs</a></p>
+</div>
+
+<div id='bsBlock12' class='bsBlock'>
+<br /><strong><big>L</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/60.htm?bsNr=12'>Lycopin</a></p>
+</div>
+
+<div id='bsBlock13' class='bsBlock'>
+<br /><strong><big>M</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/13.htm?bsNr=13'>Magenverstimmung</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/14.htm?bsNr=13'>Magnesium</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/63.htm?bsNr=13'>Medikamenten-Einnahme, optimierte</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/15.htm?bsNr=13'>Migräne</a></p>
+</div>
+
+<div id='bsBlock14' class='bsBlock'>
+<br /><strong><big>N</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/70.htm?bsNr=14'>Nagelpilz</a></p>
+</div>
+
+<div id='bsBlock15' class='bsBlock'>
+<br /><strong><big>O</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/16.htm?bsNr=15'>Osteoporose</a></p>
+</div>
+
+<div id='bsBlock16' class='bsBlock'>
+<br /><strong><big>P</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/40.htm?bsNr=16'>Pollenallergie</a></p>
+</div>
+
+<div id='bsBlock17' class='bsBlock'>
+<br /><strong><big>Q</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/71.htm?bsNr=17'>QMS - Qualitäts Management System</a></p>
+</div>
+
+<div id='bsBlock18' class='bsBlock'>
+<br /><strong><big>R</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/39.htm?bsNr=18'>Reiseapotheke</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/17.htm?bsNr=18'>Reiseübelkeit</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/61.htm?bsNr=18'>Riechstörungen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/57.htm?bsNr=18'>Rückenschmerzen</a></p>
+</div>
+
+<div id='bsBlock19' class='bsBlock'>
+<br /><strong><big>S</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/45.htm?bsNr=19'>Schimmelpilzallergie</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/18.htm?bsNr=19'>Schlaganfall</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/19.htm?bsNr=19'>Schnupfen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/62.htm?bsNr=19'>Schröpfen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/20.htm?bsNr=19'>Selen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/21.htm?bsNr=19'>Sodbrennen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/22.htm?bsNr=19'>Sonnenschutz</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/52.htm?bsNr=19'>Sonnenstich</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/68.htm?bsNr=19'>Sportunfälle</a></p>
+</div>
+
+<div id='bsBlock20' class='bsBlock'>
+<br /><strong><big>T</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/46.htm?bsNr=20'>TCM-Traditionelle Chinesische Medizin</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/56.htm?bsNr=20'>Tinnitus</a></p>
+</div>
+
+<div id='bsBlock21' class='bsBlock'>
+<br /><strong><big>U</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/47.htm?bsNr=21'>Uebersäuerung</a></p>
+</div>
+
+<div id='bsBlock22' class='bsBlock'>
+<br /><strong><big>V</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/11.htm?bsNr=22'>Venenleiden</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/69.htm?bsNr=22'>Verletzungen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/23.htm?bsNr=22'>Vitamine</a></p>
+</div>
+
+<div id='bsBlock23' class='bsBlock'>
+<br /><strong><big>W</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/73.htm?bsNr=23'>Wasserblasen</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/72.htm?bsNr=23'>Wunden</a></p>
+</div>
+
+<div id='bsBlock24' class='bsBlock'>
+<br /><strong><big>X</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/75.htm?bsNr=24'>X-rays</a></p>
+</div>
+
+<div id='bsBlock25' class='bsBlock'>
+<br /><strong><big>Y</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/74.htm?bsNr=25'>Yoga</a></p>
+</div>
+
+<div id='bsBlock26' class='bsBlock'>
+<br /><strong><big>Z</big> wie: </strong><br /><br />
+<p class='gtipps-line' id='firstEntryGtipps'><a href='/apotheke/ratgeber/32.htm?bsNr=26'>Zecken</a></p>
+<p class='gtipps-line'><a href='/apotheke/ratgeber/24.htm?bsNr=26'>Zink</a></p>
+</div>
+
+<br class='clearing' /></div>
+</div>
+  <div id="lay-content"><h1>Ihre Einhorn-Apotheke</h1>
+<h2>Apothekerin Monika Schübel</h2>
+<p><strong></strong><br />
+Franz-Marc-Str. 6<br />
+80637 München<br /><br />
+<a href='/apotheke/lageplan.htm'>Lageplan</a><br /><br />
+Tel.: 0 89-15 32 37<br />
+Fax: 0 89-15 20 47<br />eMail: 
+   <script type="text/javascript">
+   var aaaa = "<a href='mailto:";
+   var bbbb = "info";
+   var cccc = "einhorn-apotheke-muenchen.de";
+   var dddd = "' class='email'>";
+   var eeee = "</a>";
+   document.write(aaaa+bbbb+"@"+cccc+dddd+bbbb+"@"+cccc+eeee);
+   </script>
+   </p>
+
+<h2>Fragen Sie Ihr Apotheken-Team</h2>
+<p>Gern beantworten wir Ihnen Ihre Fragen zu Arzneimitteln und zu den vielfältigsten Gesundheitsthemen. Besuchen Sie uns zu einem Beratungsgespräch in der Apotheke oder nehmen Sie gleich hier Kontakt zu uns auf.</p>
+
+<p>Füllen Sie dazu bitte einfach folgendes Formular aus !</p>
+
+<h2>Kontaktformular</h2>
+
+<form name="kontakt" method="post" action="kontakt.htm">
+  <fieldset id="contactSender">
+  <legend>Absenderangaben</legend><br />
+  <label for="anrede" class="label">Anrede:<span class="obligation">*</span></label>
+  <div class="eingabe">
+    <select name="anrede" id="anrede">
+      <option value="">Anrede</option>
+      <option value="Herr">Herr</option>
+      <option value="Frau">Frau</option>
+    </select>
+  </div>
+  <label for="name" class="label">Ihr Name:<span class="obligation">*</span></label>
+  <div class="eingabe">
+    <input name="name" type="text" id="name" value="" class="inputStandard" /> 
+  </div>
+  <label for="telefon" class="label">Telefon:</label>
+  <div class="eingabe">
+    <input type="text" name="telefon" id="telefon" value="" class="inputStandard" />
+  </div>
+  <label for="email" class="label">eMail:<span class="obligation">*</span></label>
+  <div class="eingabe">
+    <input type="text" name="email" id="email" value="" class="inputStandard" />
+  </div>
+  <br clear="all" />
+  <br /><input name='rueckruf' id='rueckruf' class='checkbox' type='checkbox' value='ja' /> <label for='rueckruf'>Bitte rufen Sie mich unter o.g. Telefonnummer zurück.</label>
+  </fieldset>
+  <fieldset id="contactMessage">
+    <legend>Ihre Nachricht:<span class="obligation">*</span></legend>
+  <p>
+    <textarea name="nachricht" id="nachricht" cols="70" rows="10"></textarea>
+  </p>
+  <label for="address" class="label">Was ergibt die Summe <br />aus f&uuml;nf und sechs ?<span class="obligation">*</span></label>
+  <div class="eingabe"><input type="text" name="address" id="address" value="(dient dem Spamschutz)" class="inputStandard" onfocus="setSpam1('address');" onblur="setSpam2('address');" /></div>
+    <br class="floatclear" /><br /><br />
+    <input name="datenschutz" id="datenschutz" type="checkbox" class="checkbox" value="ja" />
+    <label for="datenschutz"><a href="datenschutz.htm" target="_blank">Datenschutzerklärung</a> akzeptiert und <a href="datenschutz.htm#verbraucherrechte" target="_blank">Verbraucherrechte</a> zur Kenntnis genommen.<span class="obligation">*</span></label>
+    <p>Die mit <span class='obligation'>*</span> gekennzeichneten Felder sind Pflichtfelder.</p>
+  </fieldset>
+    <input type="submit" alt="Absenden" name="absenden" value=" "  class="button buttonAbsenden" /> </form>
+</div>
+  <div id="lay-dyncont2"><h1 id='hbox-tvtipps'>TV-Tipps</h1>
+<div class='box-content'>
+<a href='/apotheke/tv_tipps.htm'><em>Morgen früh -</em> 06:00 Uhr - ARD alpha<br /><br /><strong>Tele-Gym</strong><br />
+Fitness</a></div>
+<h1 id='hbox-fsg'>Für Sie gelesen</h1>
+<div class='box-content'><h2 class='first'>Bei rezeptfreien Arzneien den Preis pro Pille ausrechnen</h2>
+<p><a href='/apotheke/gelesen/8585.htm'><img src='https://www.aposolutions.net/dpa-serviceline/dpa-ServiceLine-images/../dpa-ServiceLine-images/urn-newsml-dpa-com-20090101-170321-99-749767_thumbnail_4_3.jpg' alt='' title='Tabletten und Kapseln' class='pic picFSGMini' />Berlin (dpa/tmn) - Wenn eine einzelne Vitamin-Ampulle in der 30er-Packung 1,64 Euro kostet, dann dürfte sie in der 200er-Packung doch...</a></p><br class='clearing' />
+
+<h2>Mehr Tuberkulosefälle in Deutschland</h2>
+<p><a href='/apotheke/gelesen/8586.htm'><img src='https://www.aposolutions.net/dpa-serviceline/dpa-ServiceLine-images/../dpa-ServiceLine-images/urn-newsml-dpa-com-20090101-170320-99-732509_thumbnail_4_3.jpg' alt='' title='Vivantes Klinikum Neukölln' class='pic picFSGMini' />Berlin (dpa) - Wo bitte geht es zur Tuberkulose-Ambulanz? Als Antwort gibt es einen fragenden Blick am Info-Schalter im Berliner...</a></p><br class='clearing' />
+
+<h2>Outdoor-Sportarten und ihre Vorteile</h2>
+<p><a href='/apotheke/gelesen/8583.htm'><img src='https://www.aposolutions.net/dpa-serviceline/dpa-ServiceLine-images/../dpa-ServiceLine-images/urn-newsml-dpa-com-20090101-170306-99-553731_thumbnail_4_3.jpg' alt='' title='Zwei Frauen beim Walken' class='pic picFSGMini' />Saarbrücken (dpa-infoocm) - Outdoor-Sportarten gibt es viele. Doch woher weiß man, welche zu einem passt? Entscheidend sind nicht nur die...</a></p><br class='clearing' />
+
+<h2>2245 Behandlungsfehler im vergangenen Jahr nachgewiesen</h2>
+<p><a href='/apotheke/gelesen/8582.htm'><img src='https://www.aposolutions.net/dpa-serviceline/dpa-ServiceLine-images/../dpa-ServiceLine-images/urn-newsml-dpa-com-20090101-170323-99-781889_thumbnail_4_3.jpg' alt='' title='Schlichtungsstelle für Arzthaftpflichtfragen' class='pic picFSGMini' />Berlin (dpa) - Die Zahl der ärztlichen Behandlungsfehler in Deutschland hat sich nach Angaben der Bundesärztekammer (BÄK) in den vergangenen...</a></p><br class='clearing' />
+
+<h2>Bei Neurodermitis besser Baumwolle tragen</h2>
+<p><a href='/apotheke/gelesen/8579.htm'><img src='https://www.aposolutions.net/dpa-serviceline/dpa-ServiceLine-images/../dpa-ServiceLine-images/urn-newsml-dpa-com-20090101-170317-99-700982_thumbnail_4_3.jpg' alt='' title='Arm mit Neurodermitis' class='pic picFSGMini' />Frankfurt/Main (dpa/tmn) - Menschen mit Neurodermitis brauchen eine besondere Hautpflege und sollten auch bei ihrer Kleidung einiges...</a></p><br class='clearing' />
+
+</div>
+
+
+<h1 class="hbox-wetter">Wetter</h1>
+<div class="box-content" id="owm">
+
+
+
+<script>
+$(document).ready(function(){	
+
+if(!sessionStorage.getItem("wetterdataCache"))
+	{	
+		$.ajax({
+		url: 'https://www.aposolutions.com/generell/inc/modul/common/openweather.ajax.php?kdnr=820139',
+		type: 'GET',
+		dataType : 'html',
+		success: function(data){
+			  $('#wettercontent').html(data);
+			  $('#wettercache').val(data);
+			  
+			  var wetterdata = $('#wettercache').val(); 
+			  sessionStorage.setItem('wetterdataCache', wetterdata);
+			  
+		},
+		error: function(data){
+			  $('#wettercontent').html('<p><br>Wetterdaten derzeit nicht verf&uuml;gbar</p>');
+		},
+		timeout: 10000 //in milliseconds
+		});
+		
+	}  // end if
+
+   else $('#wettercontent').html(sessionStorage.getItem("wetterdataCache")); 
+})
+
+</script>
+<input type="hidden" id="wettercache" value="">
+<div id="wettercontent"><p><br>Wetterdaten werden geladen...</p></div>
+</div></div>
+  <div id="lay-foot"><div id="footmenu-wrapper">
+<a href='/apotheke/datenschutz.htm'>Datenschutz</a> | <a href='/apotheke/datenschutz.htm#verbraucherrechte'>Verbraucherrechte</a> | <a href='/apotheke/impressum.htm'>Impressum</a> | <a href='/apotheke/sitemap.htm'>Sitemap</a> | <a href='javascript:;' onclick='window.print();'>Seite drucken</a> | <a href='#oben'>Seitenanfang</a>
+</div></div>
+  </div>
+</body>
+</html>

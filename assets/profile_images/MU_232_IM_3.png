@@ -1,0 +1,327 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de" >
+<head>
+	<base href="http://www.rihani-apotheke.de/index.php/de/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Super User" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Neuen Internet Präsenz Rihani-Apotheke" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Home</title>
+	<link href="/media/jui/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/bootstrap-extended.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/system/css/general.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ju_joomla72/css/respo.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ju_joomla72/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ju_joomla72/css/joomla.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ju_joomla72/css/override.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ju_joomla72/css/modules.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ju_joomla72/css/styles/red.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ju_joomla72/css/menu.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ju_joomla72/slider/css/layerslider.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_tc_slidenews/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_tc_slidenews/assets/css/owl.carousel.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+.ju-base {max-width: 960px;} #ju-leftcol {width: 30%} #ju-rightcol { width: 22%} #ju-maincol {width:78%}#inner_content {width: 100%;} #ju-sideleft {width: 20%}#ju-sideright { width: 30%} #nebox89 .tc-inner { margin:7px;}
+#nebox89 .tc-inner:hover{background-color:#ccc;}
+	</style>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/ju_joomla72/lib/framework/js/menu.js" type="text/javascript"></script>
+	<script src="/templates/ju_joomla72/slider/js/greensock.js" type="text/javascript"></script>
+	<script src="/templates/ju_joomla72/slider/js/layerslider.transitions.js" type="text/javascript"></script>
+	<script src="/templates/ju_joomla72/slider/js/layerslider.kreaturamedia.jquery.js" type="text/javascript"></script>
+	<script src="/templates/ju_joomla72/lib/framework/js/gotop.js" type="text/javascript"></script>
+	<script src="/media/com_wrapper/js/iframe-height.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_tc_slidenews/assets/js/jquery.owl.carousel.js" type="text/javascript"></script>
+	<script src="/modules/mod_tc_slidenews/assets/js/jquery.custom.three.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	</script>
+<link href="/templates/ju_joomla72/images/favicon.ico" rel="shortcut icon" type="image/x-icon" /><link href="/templates/ju_joomla72/css/sticky.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+#slides { background-color: #FFFFFF;  }
+body.bg {  color: #801418;  background-color: #FFFFFF; background-image: url(/templates/ju_joomla72/images/patterns/no.png ); background-repeat: repeat; }
+.bott_col {color:#;background-color: #FFFFFF;}
+#trueHeader, #header.sticky.condensed #trueHeader { background:#801418;}
+#navmenu ul.level-0 > li.menu-item > a.menu-item,
+#sublevel ul.level-1 > li.menu-item > a.menu-item{color: # !important ;}
+</style>
+<!--[if lte IE 7.0]>
+<link href="/templates/ju_joomla72/css/IE7_only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class="bg ltr red clearfix">
+
+<div class="ju-base">
+<div id="ju-top-header" class="clearfix">
+<span class="ju_date">
+	Montag, 03 April 2017</span>	
+</div>	
+
+<header id="header">
+<div id="trueHeader">
+<a id="logo-text" style="width:350px;height:90px" href="/" title="Rihani-Apotheke"><img src="/images/logo.png" style="border:0;" alt="" /></a>
+<div id="navmenu" class="clearfix"><ul class="ju-menu level-0"><li class="menu-item active first"><a href="http://www.rihani-apotheke.de/" class="menu-item active first" ><span class="menu"><span class="menu-title">Home</span></span></a></li><li class="menu-item parent"><a href="/index.php/de/ueber-uns" class="menu-item parent" ><span class="menu"><span class="menu-title">Über Uns</span></span></a><div class="submenu"><div class="submenu-wrap"><div class="menu-tl"><div class="menu-tr"><div class="menu-tm"></div></div></div><div class="menu-l"><div class="menu-r"><div class="submenu-inner clearfix" style="width: 200px;"><div class="megacol  first" style="width: 200px;"><ul class="ju-menu level-1"><li class="menu-item first"><a href="/index.php/de/ueber-uns/die-rihani-apotheke-2-minuten-vom-hbf" class="menu-item first" ><span class="menu"><span class="menu-title">Die Rihani Apotheke  2 Minuten vom HBF</span></span></a></li><li class="menu-item"><a href="/index.php/de/ueber-uns/apotheker-dr-mohammed-rihani" class="menu-item" ><span class="menu"><span class="menu-title">Apotheker  Dr. Mohammed Rihani</span></span></a></li><li class="menu-item"><a href="/index.php/de/ueber-uns/unser-team" class="menu-item" ><span class="menu"><span class="menu-title">Unser Team</span></span></a></li><li class="menu-item"><a href="/index.php/de/ueber-uns/kontakt" class="menu-item" ><span class="menu"><span class="menu-title">Kontakt</span></span></a></li><li class="menu-item"><a href="/index.php/de/ueber-uns/anfahrt" class="menu-item" ><span class="menu"><span class="menu-title">Anfahrt</span></span></a></li><li class="menu-item"><a href="/index.php/de/ueber-uns/oeffnungszeiten" class="menu-item" ><span class="menu"><span class="menu-title">Öffnungszeiten</span></span></a></li><li class="menu-item"><a href="/index.php/de/ueber-uns/impressum" class="menu-item" ><span class="menu"><span class="menu-title">Impressum</span></span></a></li><li class="menu-item"><a href="/index.php/de/ueber-uns/datenschutzerklaerung" class="menu-item" ><span class="menu"><span class="menu-title">Datenschutzerklärung</span></span></a></li><li class="menu-item last"><a href="/index.php/de/ueber-uns/disclaimer" class="menu-item last" ><span class="menu"><span class="menu-title">Disclaimer</span></span></a></li></ul></div></div></div></div><div class="menu-bl"><div class="menu-br"><div class="menu-bm"></div></div></div></div></div></li><li class="menu-item last parent"><a href="/index.php/de/unsere-leistungen" class="menu-item last parent" ><span class="menu"><span class="menu-title">Unsere Leistungen</span></span></a><div class="submenu"><div class="submenu-wrap"><div class="menu-tl"><div class="menu-tr"><div class="menu-tm"></div></div></div><div class="menu-l"><div class="menu-r"><div class="submenu-inner clearfix" style="width: 200px;"><div class="megacol  first" style="width: 200px;"><ul class="ju-menu level-1"><li class="menu-item first"><a href="/index.php/de/unsere-leistungen/angebote" class="menu-item first" ><span class="menu"><span class="menu-title">Angebote</span></span></a></li><li class="menu-item"><a href="/index.php/de/unsere-leistungen/ernaehrungsberatung" class="menu-item" ><span class="menu"><span class="menu-title">Ernährungsberatung</span></span></a></li><li class="menu-item"><a href="/index.php/de/unsere-leistungen/lieferservice" class="menu-item" ><span class="menu"><span class="menu-title">Lieferservice</span></span></a></li><li class="menu-item"><a href="/index.php/de/unsere-leistungen/hausapotheken-check" class="menu-item" ><span class="menu"><span class="menu-title">Hausapotheken-Check</span></span></a></li><li class="menu-item"><a href="/index.php/de/unsere-leistungen/weltweiter-versand" class="menu-item" ><span class="menu"><span class="menu-title">Weltweiter versand</span></span></a></li><li class="menu-item last parent"><a href="/index.php/de/unsere-leistungen/gesundheitscheck" class="menu-item last parent" ><span class="menu"><span class="menu-title">Gesundheitscheck</span></span></a><div class="submenu"><div class="submenu-wrap"><div class="menu-tl"><div class="menu-tr"><div class="menu-tm"></div></div></div><div class="menu-l"><div class="menu-r"><div class="submenu-inner clearfix" style="width: 200px;"><div class="megacol  first" style="width: 200px;"><ul class="ju-menu level-2"><li class="menu-item first"><a href="/index.php/de/unsere-leistungen/gesundheitscheck/blutzuckermessung" class="menu-item first" ><span class="menu"><span class="menu-title">Blutzuckermessung</span></span></a></li><li class="menu-item"><a href="/index.php/de/unsere-leistungen/gesundheitscheck/blutdruckmessung" class="menu-item" ><span class="menu"><span class="menu-title">Blutdruckmessung</span></span></a></li><li class="menu-item"><a href="/index.php/de/unsere-leistungen/gesundheitscheck/erstellung-lipidprofil" class="menu-item" ><span class="menu"><span class="menu-title">Erstellung Lipidprofil</span></span></a></li><li class="menu-item"><a href="/index.php/de/unsere-leistungen/gesundheitscheck/harnsaeureuntersuchung" class="menu-item" ><span class="menu"><span class="menu-title">Harnsäureuntersuchung</span></span></a></li><li class="menu-item"><a href="/index.php/de/unsere-leistungen/gesundheitscheck/homocysteinmessung" class="menu-item" ><span class="menu"><span class="menu-title">Homocysteinmessung</span></span></a></li><li class="menu-item"><a href="/index.php/de/unsere-leistungen/gesundheitscheck/oxidative-kapazitaet" class="menu-item" ><span class="menu"><span class="menu-title">Oxidative Kapazität</span></span></a></li><li class="menu-item"><a href="/index.php/de/unsere-leistungen/gesundheitscheck/messung-der-stress-hormone" class="menu-item" ><span class="menu"><span class="menu-title">Messung der Stress-Hormone</span></span></a></li><li class="menu-item last"><a href="/index.php/de/unsere-leistungen/gesundheitscheck/urin-untersuchung" class="menu-item last" ><span class="menu"><span class="menu-title">Urin Untersuchung</span></span></a></li></ul></div></div></div></div><div class="menu-bl"><div class="menu-br"><div class="menu-bm"></div></div></div></div></div></li></ul></div></div></div></div><div class="menu-bl"><div class="menu-br"><div class="menu-bm"></div></div></div></div></div></li></ul></div><script type="text/javascript">
+//<![CDATA[
+window.addEvent('domready',function(){
+var	limits = $(document.body); items_v = [], items_h = [];
+$$('div.submenu').each(function (el) { if (el.getParent().getParent().hasClass('level-0')) { items_v.push(el); } else { items_h.push(el); } });
+new JUMenu(items_v, { direction: 'LTR', bound: limits, fxOptions: { transition: Fx.Transitions.linear, duration: 300}, animation: 'slidefade', mode: 'vertical', offset:{x:0, y: 0} });
+new JUMenu(items_h, { direction: 'LTR', bound: limits, fxOptions: { transition: Fx.Transitions.linear, duration: 300}, animation: 'slidefade', mode: 'horizontal', offset: {x: -10, y: 5} });
+});
+//]]>
+</script><div class="clearfix">
+</div>	
+</div>
+</header> 
+<div id="slides">
+
+<div id="layerslider" style="width:600px;height:250px;max-width:1280px;"> 
+
+         
+<div class="ls-slide" data-ls="slidedelay:5000;transition2d:all;transition3d:all;"><img src="/images/finale_bilder_600/apo_600.jpg" class="ls-bg" alt=""/>
+</div>
+<div class="ls-slide" data-ls="slidedelay:5000;transition2d:all;transition3d:all;"><img src="/images/finale_bilder_600/apo_aussen_600.jpg" class="ls-bg" alt=""/>
+</div>
+<div class="ls-slide" data-ls="slidedelay:5000;transition2d:all;transition3d:all;"><img src="/images/finale_bilder_600/kaffee_600.jpg" class="ls-bg" alt=""/>
+</div>
+</div>
+<script>
+jQuery("#layerslider").layerSlider({
+pauseOnHover: true,
+skin: 'lightskin',
+hoverBottomNav: true,
+skinsPath: '/templates/ju_joomla72/slider/skins/'
+});
+</script>
+
+
+ 
+</div>
+<div id="tops">
+</div>
+<div class="main-bg clearfix">	
+<div class="clearfix">
+<div id="ju-maincol" class="clearfix">
+
+<div class="font-sizer">
+<a class="btn_fs_big" title="Increase font size" rel="nofollow" href="#">A+</a>
+<a class="btn_fs_reset" title="Reset font size" rel="nofollow" href="#">R</a>
+<a class="btn_fs_small" title="Decrease font size" rel="nofollow" href="#">A-</a>
+</div>
+<div style="clear:both;"></div>
+
+<script type="text/javascript">
+window.addEvent('domready', function() {
+document.getElement(".btn_fs_big").addEvent("click", function() {
+Cookie.write('ju_joomla72_font_size', 'big'); 
+document.body.setStyle('font-size','14px');
+});
+document.getElement(".btn_fs_small").addEvent("click", function() {
+Cookie.write('ju_joomla72_font_size', 'small'); 
+document.body.setStyle('font-size','11px');
+});
+document.getElement(".btn_fs_reset").addEvent("click", function() {
+Cookie.dispose('ju_joomla72_font_size'); 
+document.body.setStyle('font-size','');
+});
+});
+</script>
+<div id="ju-header1" class="clearfix"><div class="ju-inner clearfix"><div class="module ">	
+<div class="mod-wrapper clearfix">		
+<div class="mod-content clearfix">	
+<div class="mod-inner clearfix">
+<div id="nebox89">
+<div id="nsbox">
+<span id="team-prev" class="prev-next prev"><</span>
+<span id="team-next" class="prev-next next">></span> 
+</div>
+<div id="owl-newsbox" class="nsbox">
+ <div class="tc-classes"><div class="tc-inner">
+<p>Unser Angebot</p>
+ <div class="tc-link-group">
+<a href="http://www.rihani-apotheke.de/index.php/unsere-leistungen/angebote" target="_self" data-placement="bottom" data-toggle="tooltip" title="read more">Angebot</a>
+</div>
+</div></div>
+ <div class="tc-classes"><div class="tc-inner">
+<p>Aktuelle Informationen</p>
+ <div class="tc-link-group">
+</div>
+</div></div>
+</div>
+</div>
+
+<!-- End Flex Slider code -->
+
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div></div><div class="clr"></div>
+<div id="inner_content" class="clearfix"> <!--Component Area-->
+		
+<div class="ju-component-area clearfix">
+<div class="ju-inner clearfix">
+<div id="system-message-container">
+	</div>
+
+<div class="ju-component-area-inner clearfix">
+
+<article class="item-page">
+
+	
+	
+
+	
+		
+
+	<header>
+
+		
+		<h1></h1>
+
+		
+		
+
+		
+		
+
+		
+	</header>
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1><strong><a href="/../">Rihani-Apotheke in München </a></strong></h1>
+<p> </p>
+<p><img src="/images/finale_bilder_600/kaffee_600.jpg" alt="" /></p>
+<p> </p>
+<p><strong>Dr. Mohammed Rihani</strong><br /> <em>Apotheker und Inhaber der Rihani-Apothke | International in München.</em><br /><br /> Als moderne und zukunftsorientierte Apotheke legen wir Wert auf Beratung und persönliche Betreuung des Patienten in Fragen der Gesundheit und des Wohlbefindens. <br /> Auf unseren Internetseiten finden Sie aktuelle und umfassende Informationen zu den verschiedenen Gesundheitsthemen sowie einen Überblick über unsere Service- und Dienstleistungen.</p> 
+
+
+
+
+
+
+
+
+
+<ul class="pager pagenav">
+	<li class="previous">
+		<a href="/index.php/de/2-uncategorised/4-adresse" rel="prev">
+			<span class="icon-chevron-left"></span> Zurück		</a>
+	</li>
+</ul>
+
+
+
+
+
+	
+
+		 
+
+
+</article>
+</div>	
+</div>
+</div>
+</div>
+<div class="clr"></div>
+</div><div id="ju-rightcol">
+<div id="ju-right" class="clearfix"><div class="ju-inner clearfix"><div class="module ">	
+<div class="mod-wrapper clearfix">		
+<div class="mod-content clearfix">	
+<div class="mod-inner clearfix">
+
+
+<div class="custom"  >
+	<p>Öfnnungszeiten : <br /> Montag - Freitag 08:30-19:00 Uhr<br /> Samstag 10:00 - 16:00 Uhr<br /> <br /> In den Sommermonaten<br /> (15.06 - 15.09):<br /> Montag - Freitag 08:30 - 20:00 Uhr<br /> Samstag 10:00 - 18:00 Uhr</p></div>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div></div><div id="ju-right-gridbottom" class="ju-modCol1 clearfix"><div class="ju-inner clearfix"><div style="width:100%" class="ju-block "><div id="ju-right3" class="mod-block ju-right3  single"><div class="module ">	
+<div class="mod-wrapper clearfix">		
+<div class="mod-content clearfix">	
+<div class="mod-inner clearfix">
+
+
+<div class="custom"  >
+	<p>Unsere Adresse:<br /> Landwehrstr. 48<br /> 80336 München<br /> Tel.: +49 89 54 88 67 70<br /> Tel.: +49 89 54 88 67 710<br /> Mobil.: +49 172 60 75 512<br /> Info@rihani-apotheke.de</p></div>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div></div></div></div><div id="ju-right-bottom" class="clearfix"><div class="ju-inner clearfix"><div class="module ">	
+<div class="mod-wrapper clearfix">		
+<div class="mod-content clearfix">	
+<div class="mod-inner clearfix">
+<iframe onload="iFrameHeight()"	id="blockrandom"
+	name=""
+	src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2662.6411013061725!2d11.555323115798224!3d48.13644427922348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479ddf5628367be7%3A0x6c665e616f2d0498!2sDr.+Rihani-Apotheke!5e0!3m2!1sde!2sde!4v1477924303697&quot; width=&quot;200&quot; height=&quot;200&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen"
+	width="200"
+	height="200"
+	scrolling="auto"
+	frameborder="1"
+	class="wrapper" >
+	Keine IFrames</iframe>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div></div></div>
+</div>
+</div>
+
+<div class="bott_col">
+</div>
+
+<!--Start Footer-->
+<div id="ju-footer" class="clearfix">
+<div class="cp">
+Copyright &copy; Rihani Apotheke 2016					
+</div>
+<a id="pagetop" title="Scroll to Top" href="#" rel="nofollow">Go to Top</a></div>
+<!--End Footer-->
+</div>
+
+	
+<script type="text/javascript" src="/templates/ju_joomla72/js/sticky.js"></script>
+	
+
+</body>
+</html>

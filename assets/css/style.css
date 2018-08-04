@@ -1,0 +1,39 @@
+
+/* 
+@font-face {
+    font-family: LibreBaskerville-Bold;
+    src: url(fonts/LibreBaskerville-Bold.ttf);
+} */
+body{
+	font-family: sans-serif; 
+	font-size:14px;
+	overflow-x:hidden;
+	font-weight:400;
+	word-break: break-all;
+}
+
+.navbar-default {
+    background-color:#282828;
+    border-color: #282828;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 38px;
+    padding: 8px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #e2e4e7;
+    background-image: none;
+    border: 0px solid #ccc;
+    border-radius: 0px;
+    box-shadow: none;
+    outline: 0;
+    font-family: 'HelveticaNeueLTPro-Roman' !important;
+}
